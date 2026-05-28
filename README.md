@@ -22,33 +22,25 @@ Currently deepening my knowledge in system design and scalable architecture.
 
 ## Tech Stack
 
+<div align="center">
+
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=7aa2f7)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7aa2f7)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=7aa2f7)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=7aa2f7)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=7aa2f7)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=7aa2f7)
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,sass,vite,redux&theme=dark" />
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=7aa2f7)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=7aa2f7)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=7aa2f7)
+<img src="https://skillicons.dev/icons?i=nodejs,express,nginx,graphql,jest,prisma&theme=dark" />
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=7aa2f7)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=7aa2f7)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=7aa2f7)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,firebase&theme=dark" />
 
-**Tools**
+**Tools & DevOps**
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=7aa2f7)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=7aa2f7)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=7aa2f7)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=7aa2f7)
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,vercel&theme=dark" />
+
+</div>
 
 ---
 
@@ -56,9 +48,9 @@ Currently deepening my knowledge in system design and scalable architecture.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ThenuMart&show_icons=true&bg_color=0d1117&border_color=1a56db&icon_color=7aa2f7&title_color=7aa2f7&text_color=c9d1d9&hide_border=false&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ThenuMart&show_icons=true&bg_color=0d1117&border_color=1a56db&icon_color=7aa2f7&title_color=7aa2f7&text_color=c9d1d9&hide_border=false&rank_icon=github&count_private=true" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThenuMart&layout=compact&bg_color=0d1117&border_color=1a56db&title_color=7aa2f7&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThenuMart&layout=compact&bg_color=0d1117&border_color=1a56db&title_color=7aa2f7&text_color=c9d1d9&hide_border=false&langs_count=8" />
 
 </div>
 
@@ -74,7 +66,8 @@ Currently deepening my knowledge in system design and scalable architecture.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ThenuMart-0d1117?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=0d1117)](https://github.com/ThenuMart)
+[![GitHub](https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=github&logoColor=7aa2f7)](https://github.com/ThenuMart)
+[![Instagram](https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=instagram&logoColor=7aa2f7)](https://instagram.com/sandee.thenu)
 
 </div>
 
